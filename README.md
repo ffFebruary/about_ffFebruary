@@ -26,7 +26,8 @@ I’m currently learning causal inference.
 * Python (currenly studying)
 
 ### 💬 Comment
-aaa
+
+Looking for job😭
 
 
 
