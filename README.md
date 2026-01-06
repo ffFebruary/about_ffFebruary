@@ -1,18 +1,24 @@
 ## Hi 👋 My name is ffFebruary!!
 
-GitHubを始めたばかりの初心者です。
+I'm a beginner who just started using GitHub.
 
-### 🐧 好きなこと
-* 旅行
-* 読書
-* 最近はプログラミングの勉強を始めました！
+I’m currently learning causal inference.
 
-### 🛠️ 今使っているツール
-* VS Code
-* Python (勉強中)
 
-### 💬 ひとこと
-まずは「草」をたくさん生やせるように頑張ります！
+### 🐧 Favorites
+* Camera
+* Guitar
+
+### 🛠️ Tools
+* R
+* Stata (currenly studying)
+* Python (currenly studying)
+
+### 💬 Comment
+aaa
+
+
+
 <!--
 **ffFebruary/ffFebruary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
