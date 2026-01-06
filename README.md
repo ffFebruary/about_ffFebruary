@@ -28,8 +28,8 @@ I’m currently learning causal inference.
 
 ### 🛠️ Tools
 * R
-* Stata (currenly studying)
-* Python (currenly studying)
+* Stata (currently studying)
+* Python (currently studying)
 
 ### 💬 Comment
 
