@@ -5,7 +5,7 @@ I'm a beginner who just started using GitHub.
 I’m currently learning causal inference.
 
 ## 📊 GitHub Stats
-![ffFebruary's GitHub stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=radical)
+![ffFebruary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffFebruary&show_icons=true&theme=radical)
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
